@@ -14,3 +14,6 @@ Here is my diary of postundergraduate qualifying examination
 1. Mathematics: Textbook and problem sets of Zhangyu.
 2. Operating system camp of Tsinghua University 2022.
 ## Day 2
+Today, I suffered forearm allergy so that I has to be delayed.
+## Day 3
+Please visit [Day 3]() for details.
