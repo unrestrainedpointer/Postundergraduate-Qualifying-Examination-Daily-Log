@@ -16,4 +16,4 @@ Here is my diary of postundergraduate qualifying examination
 ## Day 2
 Today, I suffered forearm allergy so that I has to be delayed.
 ## Day 3
-Please visit [Day 3]() for details.
+Please visit [Day 3](https://github.com/unrestrainedpointer/Postundergraduate-Qualifying-Examination-Daily-Log/blob/main/Day%203.md) for details.
